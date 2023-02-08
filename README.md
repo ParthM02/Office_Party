@@ -7,7 +7,7 @@ This is a game that Matthew Johnson, Parth Mehta, and Isaiah Williams made for T
 ## Installation
 To install the game, simply download the .jar file from the repository. Then to play the game, you need to open the file to run it.
 
-You may encounter some problems running the file on Mac, mainly with a warning saying that the game is from an unidentified developer. This warning can be circumvented by two-finger clicking on the file and clicking the "open" option in the drop down. Then a new warning will pop up with an option asking you if you still want to open it. Then, you will be prompted to enter your macs username and password which is required to whitelist the game and override your security preferences. 
+You may encounter some problems running the file on Mac, mainly with a warning saying that the game is from an unidentified developer. This warning can be circumvented by two-finger clicking on the file and clicking the "open" option in the drop down. Then a new warning will pop up with an option asking you if you still want to open it which you will click "open" again. Then, you will be prompted to enter your macs username and password which is required to whitelist the game and override your security preferences. 
 
 To our knowledge, you will not encounter a similar problem on windows. However, if you do, there are numerous forums and help for running .jar files from unidentified developers. 
 
